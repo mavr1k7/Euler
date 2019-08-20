@@ -16,6 +16,13 @@ pyramid = [
     [4,62,98,27,23,9,70,98,73,93,38,53,60,4,23]
 ]
 
+# pyramid = [
+#     [3],
+#     [7,4],
+#     [2,4,6],
+#     [8,5,9,3]
+# ]
+
 # Recursively add all the possible routes
 def sum(total, path, row, col):
     total += pyramid[row][col]
