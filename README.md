@@ -4,8 +4,17 @@
 
 |Problem|Progress|
 |:-----:|:------:|
+|15     |:bulb:  |
 |18     |:heavy_check_mark:|
+|19     |:bulb:  |
 |22     |:heavy_check_mark:|
+|23     |:bulb:  |
+|24     |:bulb:  |
+|26     |:bulb:  |
+|27     |:bulb:  |
+|28     |:bulb:  |
+|29     |:bulb:  |
+|30     |:bulb:  |
 |54     |:bulb:  |
 |67     |:heavy_check_mark:|
 
