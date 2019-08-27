@@ -13,7 +13,7 @@
 |26     |:heavy_check_mark:|
 |27     |:bulb:  |
 |28     |:bulb:  |
-|29     |:bulb:  |
+|29     |:heavy_check_mark:|
 |30     |:bulb:  |
 |54     |:bulb:  |
 |67     |:heavy_check_mark:|
