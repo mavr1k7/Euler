@@ -1,15 +1,16 @@
-def perm(digits, perms, ):
-    if len(digits) > 2:
-        perm()
 
 
-def perm(i):
-    chars = []
-    for n in range(i):
-        chars.append(str(n))
-    print(chars)
+def upflag(flag, i):
+        
 
-    perms = set()
+def perm(n):
+        all = set()
+        first = ""
+        flag = ""
+        for i in range(n):
+                first += str(i)
+                flag += '0'
+        print(flag)
+        print(first)
 
-
-perm(3)
+perm(4)
